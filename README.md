@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Ahmed Youseif. Currently studing Bachelor of Computing majoring in Software Engineering at Curtin University in WA Australia.
+Hi, I am Ahmed Youseif. Currently studying Bachelor of Computing majoring in Software Engineering at Curtin University in WA Australia.
 <br>
 
 
